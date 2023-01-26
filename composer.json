@@ -12,6 +12,6 @@
         "fakerphp/faker": "^1.21",
         "dompdf/dompdf": "^2.0"
     },
-    "license": "MIT License",
+    "license": "MIT",
     "minimum-stability": "stable"
 }
