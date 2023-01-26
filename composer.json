@@ -1,0 +1,17 @@
+{
+    "name": "redirfan/irfancomposer",
+    "description": "for school",
+    "type": "project",
+    "author": [
+        {
+            "name" : "Muhamad Irfan Fauzi",
+            "email" : "iniirfanfauzi@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.21",
+        "dompdf/dompdf": "^2.0"
+    },
+    "license": "MIT License",
+    "minimum-stability": "stable"
+}
